@@ -10,6 +10,7 @@
 - [Learning a new language](#learning-a-new-language)
 - [Live online classes](#live-online-classes)
 - [Books](#books)
+- [Science](#science)
 
 
 ## General Tips
@@ -19,6 +20,7 @@ Keeping *some* sort of schedule is key. You need to work in some uninterrupted b
 The key is to compare the adults’ work schedules, stagger where you can, and make sure your kids have something to do independently when they need to. (And to be clear, that is almost certainly going to involve movies and TV and video games, not just school work – be kind to yourself!) But you’re also going to have to take breaks in your work day to help them out, especially if they are younger, and that’s just the reality.
 
 Depending on the age and independence of the kid, working in 25 minute focused increments with 5 minute “body breaks” has been pretty successful. (Our older child is more likely to get fully immersed in something, but we still ask that he take a 5-minute break every hour.) Basically, it’s the [pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique).
+
 
 ## Resources
 
@@ -44,12 +46,15 @@ Depending on the age and independence of the kid, working in 25 minute focused i
 - [The Humongous Book of …](https://www.amazon.com/Humongous-Book-Algebra-Problems-Books/dp/1592577229/ref=sr_1_3?crid=1PR6D0O9PJ28Q&keywords=humongous+book+of+algebra+problems&qid=1585173414&sprefix=the+humongous+book+of+al%2Caps%2C297&sr=8-3) -- A series of books on math at many different levels.  
 - [Thomas Edison | Leonardo da Vinci | Galileo for Kids](https://www.amazon.com/Galileo-Kids-Life-Ideas-Activities/dp/1556525664/ref=sr_1_1?keywords=galileo+for+kids&qid=1585173321&sr=8-1). Fun science books.
 - [The Core Knowledge Series -- What Your [Xth] Grader Needs to Know](https://www.amazon.com/WHAT-YOUR-GRADER-NEEDS-Knowledge/dp/0385411200/ref=sr_1_2?keywords=e.+d.+Hirsh+jr+what+your+6th+grader&qid=1585173173&sr=8-2-spell) E.D. Hirsch, Jr. Covers all the basic subjects in a very digestible and fun way, a good read.
-
+- The [Internet Archive](<https://archive.org/>) and [Project Gutenberg](<https://www.gutenberg.org/>)is a great place to find free books
 
 ## Reading Lists
 
 
 - [ALA Reading list](http://www.ala.org/alsc/publications-resources/book-lists/2019-summer-reading-list)
+
+## Science
+There are several resources for online dissection programs and resources at [navs.org](<https://www.navs.org/additional-information/bioleap-dissection-alternatives/free-online-dissection-resources/#.X3I9DsiJJGM>)
 
 
 ## Contribute
