@@ -56,6 +56,7 @@ Depending on the age and independence of the kid, working in 25 minute focused i
 ## Science
 There are several resources for online dissection programs and resources at [navs.org](<https://www.navs.org/additional-information/bioleap-dissection-alternatives/free-online-dissection-resources/#.X3I9DsiJJGM>)
 
+Data 8: The Foundations of Data Science http://data8.org/
 
 ## Contribute
 
